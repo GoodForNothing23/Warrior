@@ -16,9 +16,9 @@ class Warrior:
     @property
     def is_lancer(self):
         if self.lancerism > 0:
-            return 0
+            return False
         else:
-            return 1
+            return True
     
 class Knight(Warrior):
     attack = 7
