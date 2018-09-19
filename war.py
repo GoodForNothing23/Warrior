@@ -1,11 +1,3 @@
-# Taken from mission The Vampires
-
-# Taken from mission The Defenders
-
-# Taken from mission Army Battles
-
-# Taken from mission The Warriors
-
 class Warrior:
     health = 50
     attack = 5
@@ -49,7 +41,6 @@ class Lancer(Warrior):
     lancerism = 0.5
     num_attack = 0
     
-
 
 class Army:
     def __init__(self):
@@ -140,10 +131,8 @@ def fight(unit_1, unit_2):
         return False
         
 
-
 if __name__ == '__main__':
     #These "asserts" using only for self-checking and not necessary for auto-testing
-    
     #fight tests
     chuck = Warrior()
     bruce = Warrior()
@@ -182,8 +171,8 @@ if __name__ == '__main__':
 
 if __name__ == '__main__':
     #These "asserts" using only for self-checking and not necessary for auto-testing
-    
     #fight tests
+    print("WORK!!!")
     chuck = Warrior()
     bruce = Warrior()
     carl = Knight()
@@ -228,8 +217,8 @@ if __name__ == '__main__':
 
 if __name__ == '__main__':
     #These "asserts" using only for self-checking and not necessary for auto-testing
-    
     #fight tests
+    print("WORK!!!")
     chuck = Warrior()
     bruce = Warrior()
     carl = Knight()
