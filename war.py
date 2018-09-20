@@ -1,6 +1,5 @@
 #Test merge
 #Branch Master
->>>>>>> master
 class Warrior:
     health = 50
     attack = 5
