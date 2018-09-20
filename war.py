@@ -1,6 +1,4 @@
-# Taken from mission Army Battles
-
-# Taken from mission The Warriors
+# Test merging
 
 class Warrior:
     health = 50
