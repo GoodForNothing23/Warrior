@@ -1,4 +1,4 @@
-#Branch Master
+#Branch Test
 class Warrior:
     health = 50
     attack = 5
@@ -135,6 +135,7 @@ def fight(unit_1, unit_2):
 if __name__ == '__main__':
     #These "asserts" using only for self-checking and not necessary for auto-testing
     #fight tests
+    print("Test branch")
     chuck = Warrior()
     bruce = Warrior()
     carl = Knight()
