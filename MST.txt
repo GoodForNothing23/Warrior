@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 THIS BANCH IS MASTER
+=======
+THIS BRANCH IS MASTER
+>>>>>>> eee87d79ce1f3733931c9fb92449d34db528d0be
