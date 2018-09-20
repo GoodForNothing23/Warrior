@@ -219,7 +219,7 @@ if __name__ == '__main__':
     #These "asserts" using only for self-checking and not necessary for auto-testing
     #fight tests
     print("WORK!!!")
-    print("TEST no.2 new BRANCH")
+    print("TEST no.3 new BRANCH")
     chuck = Warrior()
     bruce = Warrior()
     carl = Knight()
