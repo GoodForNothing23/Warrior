@@ -1,7 +1,4 @@
-# Taken from mission Army Battles
-
-# Taken from mission The Warriors
-
+#Test merge
 class Warrior:
     health = 50
     attack = 5
